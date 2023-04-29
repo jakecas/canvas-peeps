@@ -4,9 +4,9 @@
 
 ### OpenGL
 
-OpenGL is used for rendering.
-This can be downloaded using `sudo apt-get install libsfml-dev`
+OpenGL is used for rendering. This can be downloaded using `sudo apt-get install libsfml-dev`.
 
 ## Running the Program
 
-The program can be compiled and executed using `make compile && make run`# canvas-peeps
+The program can be compiled using `make` and subsequently run using `make run`.
+The build directory can be cleaned with `make clean`.
